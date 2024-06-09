@@ -31,6 +31,7 @@
 
   .side_bar {
     width: 100%;
+   
   }
 
   .none {
@@ -55,6 +56,9 @@
   .tooltipText {
     margin: 0;
     font-weight: 300;
+  }
+  .image .img{
+   width: 100%;
   }
 }
 
@@ -161,7 +165,6 @@
   text-align: center;
   position: relative;
   border-radius: 50%;
-  /* border: 1px solid white; */
 }
 
 .image .hidden {
